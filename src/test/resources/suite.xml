@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite  name="Daily Finance">
+    <test name="UserPage">
+        <classes>
+            <class name="TestRunner.UserPageRunner"></class>
+        </classes>
+    </test>
+    <test name="AdminPage">
+        <classes>
+            <class name="TestRunner.AdminPageRunner"></class>
+        </classes>
+    </test>
+</suite>
