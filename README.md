@@ -14,6 +14,7 @@ This is an end-to-end automation testing project for [DailyFinance](https://dail
 
 ## 📁 Project Structure
 
+```bash
 
 src/
 └── test/
@@ -36,6 +37,7 @@ resources/
 ├── users.json
 └── registerdata.csv
 
+```
 
 ## 🧪 Technologies Used
 
